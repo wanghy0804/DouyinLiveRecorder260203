@@ -166,3 +166,7 @@ cython_debug/
 
 backup_config/
 .gitnexus
+
+# AI assistant local config
+CLAUDE.md
+AGENTS.md
